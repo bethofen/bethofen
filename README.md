@@ -18,7 +18,10 @@
   <strong>Tier 2:</strong> 
   <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
 </p>
+<h1> Referencec </h1>
 
+
+<img src="https://www.codewars.com/users/bethofen/badges/small" alt="sunji">
 </div>
 
 <!--
