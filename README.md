@@ -4,20 +4,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <h2>Top Skills</h2>
   </a>
 </p>
 
-<ul>
-  <li>
-    <strong>Tier 1:</strong>  
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-  </li>
-  <li>
-    <strong>Tier 2:</strong>  
-    <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
-  </li>
-</ul>
-  
+<p align="center"><strong>Tier 1:</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+</p>
+
+<p align="center"><strong>Tier 2:</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
+</p>
 </div>
 
 <!--
