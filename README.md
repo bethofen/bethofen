@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  ## My Profile && history
+  <h1> My Profile && history </h1>
 <img src="https://github.com/bethofen/bethofen/blob/main/main_screen" alt="sunji">
 
 <p align="center">
