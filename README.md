@@ -8,10 +8,10 @@
       <li>
         <p>tier 1 <img src="https://skillicons.dev/icons?i=py&perline=1" /> </p>
       </li>
+      <li> tier 2 <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" /></li>
     </ul>
-    <h1>Top skill</h1>
-    <br><br>
-    tier 2 <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" />
+<!--     <h1>Top skill</h1> -->
+
   </a>
 </p>
 
