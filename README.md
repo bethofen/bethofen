@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/bethofen/bethofen/main_screen.png" alt="sunji">
+<img src="https://github.com/bethofen/bethofen/main_screen.png](https://github.com/bethofen/bethofen/blob/b4e6763f8c830f55a07949ffcb5852634cc08fa1/main_screen" alt="sunji">
 <!--
 **bethofen/bethofen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
