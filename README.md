@@ -10,7 +10,7 @@
 
 <ul>
   <li>
- <h3>Tier 1:</h3>
+    <strong>Tier 1:</strong>  
     <img src="https://skillicons.dev/icons?i=py" alt="Python" />
   </li>
   <li>
@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
   </li>
 </ul>
-
   
 </div>
 
