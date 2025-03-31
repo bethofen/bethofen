@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    <strong><h1>Tier 1:</h1></strong>  
+ <h3>Tier 1:</h3>
     <img src="https://skillicons.dev/icons?i=py" alt="Python" />
   </li>
   <li>
