@@ -19,10 +19,11 @@
   <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
 </p>
 <h1> Reference </h1>
-<p1>I Codewar i got this with python language</p1>
+<p1>In Codewar i got this with python language</p1>
 <a href="https://www.codewars.com/users/bethofen/">see me</a>
+<br>
 <img src="https://www.codewars.com/users/bethofen/badges/large" alt="sunji">
-<img src="https://www.codewars.com/users/bethofen/badges/small" alt="sunji">
+
 
 
 </div>
