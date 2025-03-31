@@ -1,5 +1,6 @@
-## Hi there 👋
+
 <div align="center"> 
+  ## My Profile && history
 <img src="https://github.com/bethofen/bethofen/blob/main/main_screen" alt="sunji">
 
 <p align="center">
