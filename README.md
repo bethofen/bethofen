@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <h2>Top Skills</h2>
   </a>
 </p>
 
