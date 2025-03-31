@@ -4,16 +4,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <ul>
-      <li>
-        <p>tier 1 <img src="https://skillicons.dev/icons?i=py&perline=1" /> </p>
-      </li>
-      <li> tier 2 <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" /></li>
-    </ul>
-<!--     <h1>Top skill</h1> -->
-
+    <h2>Top Skills</h2>
   </a>
 </p>
+
+<ul>
+  <li>
+    <strong>Tier 1:</strong>  
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </li>
+  <li>
+    <strong>Tier 2:</strong>  
+    <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" alt="C, Dart, Git, MySQL" />
+  </li>
+</ul>
 
   
 </div>
