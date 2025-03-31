@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <ul>
+      <li>
+        <p>tier 1 <img src="https://skillicons.dev/icons?i=py&perline=1" /> </p>
+      </li>
+    </ul>
     <h1>Top skill</h1>
-    <p>tier 1 <img src="https://skillicons.dev/icons?i=py&perline=1" /> </p>
     <br><br>
     tier 2 <img src="https://skillicons.dev/icons?i=c,dart,git,mysql" />
   </a>
