@@ -1,5 +1,7 @@
 ## Hi there 👋
 <div align="center"> 
+<img src="https://github.com/bethofen/bethofen/blob/main/main_screen" alt="sunji">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <h2>Top Skills</h2>
