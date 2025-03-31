@@ -28,12 +28,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bethofen&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=bethofen&show_icons=true&theme=rose"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bethofen&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: rose)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=bethofen&show_icons=true" />
 </picture>
