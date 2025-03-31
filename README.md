@@ -36,13 +36,13 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=bethofen&show_icons=true" />
-</picture>
 
 
 
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethofen&layout=compact&langs_count=8&card_width=320" />
 
+</picture>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
