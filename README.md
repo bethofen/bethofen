@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://github.com/asmhsever/nivillaWeb">           
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmhsever&repo=nivillaWeb&theme=solarized-light" />
+  <img align="center" src="https://github.com/bethofen/bethofen/blob/main/newvilla.png" />
 </a>
 
 </div>
